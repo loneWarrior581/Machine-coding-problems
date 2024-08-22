@@ -1,4 +1,4 @@
-import { Game } from './snake-ladder-game';
+import { Game } from "./snake-ladder-game";
 const game = new Game(100, ["Alice", "Bob"], 1);
 
 // Add snakes
